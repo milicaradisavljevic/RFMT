@@ -7,5 +7,5 @@
 
 Some of the conclusions:
 1. there are many customers who have not used credit card services for a very long time,
-2. There are significantly fewer customers who use credit cards regularly compared to those who have not used them for a long time,
+2. there are significantly fewer customers who use credit cards regularly compared to those who have not used them for a long time,
 3. has the smallest number of clients who have over 50,000 monetary values, but are very important and loyal customers.
