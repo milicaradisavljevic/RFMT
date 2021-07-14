@@ -9,4 +9,6 @@
 #### Monetary Value – How much do they spend?
 #### Tenure – number of days since first order
 
+
+
 #### I analyzed two tasks. Credit cards and e-commerce.
