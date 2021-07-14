@@ -4,10 +4,10 @@
 
 #### RFMT stands for the three dimensions:
 
-#### Recency – How recently did the customer purchase?
-#### Frequency – How often do they purchase?
-#### Monetary Value – How much do they spend?
-#### Tenure – number of days since first order
+###### Recency – How recently did the customer purchase?
+###### Frequency – How often do they purchase?
+###### Monetary Value – How much do they spend?
+###### Tenure – number of days since first order
 
 
 
