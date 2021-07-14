@@ -12,3 +12,4 @@
 
 
 #### I analyzed two tasks. Credit cards and e-commerce.
+#### I used a Jupiter Notebook.
